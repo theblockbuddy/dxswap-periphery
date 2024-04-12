@@ -14,7 +14,7 @@
     "contracts"
   ],
   "dependencies": {
-    "dxswap-core": "https://github.com/princepatel1010/dxswap-core"
+    "dxswap-core": "https://github.com/theblockbuddy/dxswap-core"
   },
   "devDependencies": {
     "@types/chai": "^4.2.6",
